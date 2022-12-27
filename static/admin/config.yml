@@ -1,9 +1,9 @@
 backend:
     #name: github # Local
     name: git-gateway # Prod
-    repo: diogorodrigues/iceberg-gatsby-multilang
+    repo: aliphys/52weeks
     branch: master
-    site_domain: https://iceberg-gatsby-multilang.netlify.com/
+    site_domain: https://deft-lamington-4a54ab.netlify.app/
     
 
 publish_mode: editorial_workflow
